@@ -5,4 +5,4 @@ In my Github repository you can download PDF with 2 page dashboard, Power BI fil
 I also made .txt files with SQL scripts that are in SQL files.
 Hope You'll enjoy.
 
-PS. My next project is going to be also in Power BI but this time I'm going to use Phyton (that I'm currently learning) to clean and extract data.
+PS. My next project is going to be also in Power BI but this time I'm going to use Python (that I'm currently learning) to clean and extract data.
